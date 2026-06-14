@@ -1,2 +1,3 @@
-# spartan-hugo-theme
-The Hugo theme going along with the `spartan` project
+## Link to project documentation
+
+https://www.chrya.com/projects/spartan
